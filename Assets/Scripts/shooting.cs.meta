@@ -1,10 +1,13 @@
 fileFormatVersion: 2
 guid: b4244e809178fa748becaead3681fd7b
-timeCreated: 1493546423
+timeCreated: 1494701716
 licenseType: Free
 MonoImporter:
   serializedVersion: 2
-  defaultReferences: []
+  defaultReferences:
+  - Bullet_Emitter: {instanceID: 0}
+  - Bullet: {instanceID: 0}
+  - clip: {instanceID: 0}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 
